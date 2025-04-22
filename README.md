@@ -66,3 +66,5 @@ Edit
   server.js                    # Main backend file
   .env                         # Environment variables (DB URI, JWT secret)
   package.json                 # Backend dependencies and scripts
+
+# todolist_mern
